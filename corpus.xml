@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation_corpus
+    source_language="en"
+    target_language="ar"
+    version="1.0">
+
+    <metadata>
+        <title>The Role of Artificial Intelligence in Modern Education</title>
+        <domain>Education and Technology</domain>
+        <source_type>Original text</source_type>
+        <translation_style>Modern Standard Arabic</translation_style>
+    </metadata>
+
+    <entry id="001">
+        <source_text>Artificial intelligence is transforming the way students learn and teachers deliver educational content. Through adaptive learning platforms, students can receive personalized instruction based on their individual needs, abilities, and learning pace.</source_text>
+        <target_text>يُحدث الذكاء الاصطناعي تحولًا في طريقة تعلم الطلاب وتقديم المعلمين للمحتوى التعليمي. فمن خلال منصات التعلم التكيفي، يمكن للطلاب الحصول على تعليم مخصص وفقًا لاحتياجاتهم الفردية وقدراتهم والوتيرة التي يتعلمون بها.</target_text>
+    </entry>
+
+    <entry id="002">
+        <source_text>Despite these advantages, the integration of artificial intelligence into education raises important concerns. Excessive reliance on automated systems may limit direct human interaction, while the collection of student data creates questions about privacy, security, and the responsible use of information.</source_text>
+        <target_text>على الرغم من هذه المزايا، فإن دمج الذكاء الاصطناعي في التعليم يثير مخاوف مهمة. فقد يؤدي الاعتماد المفرط على الأنظمة الآلية إلى الحد من التفاعل الإنساني المباشر، في حين يثير جمع بيانات الطلاب تساؤلات تتعلق بالخصوصية والأمن والاستخدام المسؤول للمعلومات.</target_text>
+    </entry>
+
+    <entry id="003">
+        <source_text>Therefore, educational institutions should adopt a balanced approach that combines technological innovation with human guidance. Teachers must remain central to the learning process, helping students develop critical thinking, creativity, and the ability to evaluate information independently.</source_text>
+        <target_text>لذلك، ينبغي للمؤسسات التعليمية اعتماد نهج متوازن يجمع بين الابتكار التكنولوجي والتوجيه البشري. ويجب أن يظل المعلمون محور العملية التعليمية، من خلال مساعدة الطلاب على تنمية التفكير النقدي والإبداع والقدرة على تقييم المعلومات بصورة مستقلة.</target_text>
+    </entry>
+
+</translation_corpus>
